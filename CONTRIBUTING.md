@@ -103,7 +103,7 @@ See [act usage](https://nektosact.com/introduction.html) for more information.
 
 For example, to run the pre-merge-rust workflow locally, you can use the following command from terminal:
 ```
-act -j run-integration-tests
+act -j integration-tests
 ```
 
 Also you can use vscode extension [GitHub Local Actions](https://marketplace.visualstudio.com/items?itemName=SanjulaGanepola.github-local-actions) to run the workflows from vscode.
